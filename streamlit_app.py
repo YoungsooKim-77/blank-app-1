@@ -1,14 +1,11 @@
 import streamlit as st
+import pandas as pd
+import numpy as np
 
 st.title("🎈 김영수 app")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
-
-
-import streamlit as st
-import pandas as pd
-import numpy as np
 
 st.text("안녕하세요 김영수입니다.")
 
